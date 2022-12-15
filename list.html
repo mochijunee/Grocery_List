@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Grocery List</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <script src="script.js"></script>
+</head>
+  <body onload="initialize();">
+    <h2>Your Grocery List</h2>
+    <p>To add or delete an item, type the name of the food<br>To move an item up or down, type the number on the left of the item in the list</p>
+    <br>
+    <br>
+    <div class="list">
+      <label>Item: <input type="text" id="foodsel"></label>
+      <br>
+      <br>
+      <button onclick = "addFood();">Add Food</button>
+      <button onclick = "deleteItem();">Delete Food</button>
+      <button onclick = "array_moveUp(-1);">Move Up</button>
+      <button onclick = "array_moveUp(1);">Move Down</button>
+      <br>
+      <br>
+    </div>
+    <div class="outbox">
+      <div id="outbox"></div>
+    </div>
+    <br>
+    <br>
+    <center><a href="index.html">Back to homepage</a></center>
+  </body>
+</html>
