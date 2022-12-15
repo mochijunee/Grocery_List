@@ -21,6 +21,3 @@ something or design one yourself).
 
 ### Enhancements
 ● No Duplicates: If you try to add an item to the list that’s already there, it shouldn’t allow it.
-
-● Quantities: Create a utility that allows the user to change the number of a specific item that
-they want to get.
