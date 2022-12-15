@@ -5,9 +5,7 @@ Everyone needs to go grocery shopping. And when you go grocery shopping, you nee
 ### Display
 The list below includes the essential elements of the page.
 
-● Shop Lift Up, Inc. requires that their logo be on the page. Their last logo was banned by
-Federal Trade Commission so you’ll have to find one for them (you may download
-something or design one yourself).
+● Shop Lift Up, Inc. requires that their logo be on the page. (I MADE THE LOGO WITH CANVA)
 
 ● The page needs the list of all of the groceries the user plans to buy.
 
